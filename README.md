@@ -1,2 +1,2 @@
 # Hello
-my first repository on GitHub
+# my name is Tim and i love watching movies
