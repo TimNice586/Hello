@@ -1,2 +1,2 @@
-# Hello
-my first repository on GitHub
+#Hello Again!
+my second try at a repository text of my own
